@@ -1,0 +1,18 @@
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebook and packaging artifacts
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+
+# OS metadata
+.DS_Store
+Thumbs.db
